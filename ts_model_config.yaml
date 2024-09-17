@@ -1,0 +1,12 @@
+condition_channels:
+- 1
+- 2
+condition_features: 1
+dropout_alpha: 0.2
+eval_loss: 6.703774994160269e-06
+hidden_features: 64
+input_channels:
+- 0
+output_channels:
+- 0
+projection_features: 8
